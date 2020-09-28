@@ -1,5 +1,5 @@
 # Grade 8 Lessons
-Repository for Grade 8 teaching and assessment resources. To download, just click the link, then click Download.
+Repository for Grade 8 teaching and assessment resources. To download, just click the link.
 
 ## First Grading Period
 |Week | Lesson | Resources | Assessment |

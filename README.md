@@ -13,8 +13,9 @@ Repository for Grade 8 teaching and assessment resources. To download, just clic
 |2 | Factoring Trinomials with 1 as Leading Coefficient | [PowerPoint Presentation by Mr. Saing](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/Factoring-Quadratic-Trinomial-a1.pptx), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-trinomials-with-1-as-leading-coefficient.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/factoring-trinomials-with-1-as-leading-coefficient.pdf) |
 |2 | Factoring General Trinomials | [PowerPoint Presentation by Ms. Cervantes](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/FACTORING-QUADRATIC-TRINOMIALS.pptx), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-general-trinomials.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/factoring-general-trinomials.pdf) |
 |2 | Solving Problems Involving Factors of Polynomials | [PowerPoint Presentation by Ms. Ang](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/Solving-Problems-Involving-Factoring-of-Polynomials.pptx), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-factors-of-polynomials.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/solving-problems-involving-factors-of-polynomials.pdf) |
-|3 | Rational Algebraic Expressions | Not Available | Not Available |
-|3 | Simplifying Rational Algebraic Expressions | Not Available | Not Available |
-
+|3 | Rational Algebraic Expressions | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-rational-algebraic-expressions.pdf) |
+|3 | Simplifying Rational Algebraic Expressions | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Simplifying-Rational-Expressions.pdf) |
+|4 | Addition and Subtraction of Rational Algebraic Expressions | Not Available | Not Available |
+|4 | Problem Solving Involving Rational Algebraic Expressions | Not Available | Not Available |
 
 

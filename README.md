@@ -17,6 +17,6 @@ Repository for Grade 8 teaching and assessment resources. To download, just clic
 |3 | Simplifying Rational Algebraic Expressions | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Simplifying-Rational-Expressions.pdf) |
 |3 | Multiplication and Division of Rational Algebraic Expressions | Not Available | [Practice Exercises on Multiplying Rational Expressions](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Multiplying-Rational-Expressions.pdf), [Practice Exercises on Dividing Rational Expressions](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Dividing-Rational-Expressions.pdf) |
 |4 | Addition and Subtraction of Rational Algebraic Expressions | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Adding-and-Subtracting-Rational-Expressions.pdf) |
-|4 | Problem Solving Involving Rational Algebraic Expressions | Not Available | Not Available |
+|4 | Problem Solving Involving Rational Algebraic Expressions | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Solving-Rational-Equations.pdf) |
 
 

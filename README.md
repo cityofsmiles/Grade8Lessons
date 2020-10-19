@@ -1,5 +1,5 @@
 # Grade 8 Lessons
-Repository for Grade 8 teaching and assessment resources. To download, just click the link. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
+This is a repository for Grade 8 teaching and assessment resources created by the Math teachers of Sauyo High School. To download, just click the link. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
 ## First Grading Period
 |Module | Lesson | Resources | Assessment |
@@ -19,4 +19,11 @@ Repository for Grade 8 teaching and assessment resources. To download, just clic
 |4 | Addition and Subtraction of Rational Algebraic Expressions | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Adding-and-Subtracting-Rational-Expressions.pdf) |
 |4 | Problem Solving Involving Rational Algebraic Expressions | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Solving-Rational-Equations.pdf) |
 
+
+## Other Resources
+The modules for Grade 8 Mathematics may be downloaded by clicking these links.
+- [Module 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod1_FactoringPart1_V3b-1.pdf)
+- [Module 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod2_Factoring-PerfectSqureTrinomials_GeneralTrinomProblemSolvingInvolvingFactorsOfPoly_v3-1-1.pdf)
+- [Module 3](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod3_Rational-Algebraic-Expressions1_v3B-1.pdf)
+- [Module 4](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod4_Rational_Algebraic-Expressions-2_v3B-1.pdf)
 

@@ -24,8 +24,18 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 |6 | Forms of Linear Equations | Not Available | Not Available |
 |6 | Graphs of Linear Equations | Not Available | Not Available |
 |6 | Describing Graphs of Linear Equations | Not Available | Not Available |
-|7 | Finding the Equation of a Line | Not Available | Not Available |
-|7 | Solving Problems Involving Linear Equations in Two Variables | Not Available | Not Available |
+|7 | Finding the Equation of a Line Given the Slope and a Point or Two Points | Not Available | Not Available |
+|7 | Finding the Equation of a Line Given the Slope and the Intercepts | Not Available | Not Available |
+|7 | Solving Problems Involving Linear Equations -- Distance, Speed, and Time | Not Available | Not Available |
+|7 | Solving Problems Involving Linear Equations -- Constant Rate | Not Available | Not Available |
+| 8 | Systems of Linear Equations in Two Variables | Not Available | Not Available |
+| 8 | Graphing Systems of Linear Equations | Not Available | Not Available |
+| 8 | Categorizing Systems of Linear Equations | Not Available | Not Available |
+| 9 | Solving Systems of Linear Equations by Graphing | Not Available | Not Available |
+| 9 | Solving Systems of Linear Equations by Substitution | Not Available | Not Available |
+| 9 | Solving Systems of Linear Equations by Elimination | Not Available | Not Available |
+| 9 | Solving Word Problems Involving Systems of Linear Equations in Two Variables | Not Available | Not Available |
+
 
 
 ## Other Resources

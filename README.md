@@ -19,9 +19,9 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 |4 | Addition and Subtraction of Rational Algebraic Expressions | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/addition-and-subtraction-of-rational-expressions.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Adding-and-Subtracting-Rational-Expressions.pdf) |
 |4 | Problem Solving Involving Rational Algebraic Expressions | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-rational-expressions.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Solving-Rational-Equations.pdf) |
 |5 | Rectangular Coordinate System | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-rectangular-coordinate-system.pdf) |
-|5 | Linear Equations in Two Variables | Not Available | [Practice Exercises (Answer items 1-16 only.)](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Linear-Equations.pdf) |
+|5 | Linear Equations in Two Variables | Not Available | Not Available |
 |5 | Slope of a Line | Not Available | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Slope-of-a-line.pdf) |
-|6 | Forms of Linear Equations | Not Available | Not Available |
+|6 | Forms of Linear Equations | Not Available | [Practice Exercises (Answer items 1-16 only.)](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Linear-Equations.pdf) |
 |6 | Graphs of Linear Equations | Not Available | Not Available |
 |6 | Describing Graphs of Linear Equations | Not Available | Not Available |
 |7 | Finding the Equation of a Line Given the Slope and a Point or Two Points | Not Available | Not Available |

@@ -23,7 +23,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 |5 | Slope of a Line | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/slope-of-a-line.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Slope-of-a-line.pdf) |
 |6 | Forms of Linear Equations | Not Available | Not Available |
 |6 | Graphs of Linear Equations | Not Available | Not Available |
-|6 | Describing Graphs of Linear Equations | Not Available | Not Available |
+|6 | Describing Graphs of Linear Equations Using the Slope and Intercepts | Not Available | Not Available |
 |7 | Finding the Equation of a Line Given the Slope and a Point or Two Points | Not Available | Not Available |
 |7 | Finding the Equation of a Line Given the Slope and the Intercepts | Not Available | Not Available |
 |7 | Solving Problems Involving Linear Equations -- Distance, Speed, and Time | Not Available | Not Available |
@@ -40,8 +40,14 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 
 ## Other Resources
 The modules for Grade 8 Mathematics may be downloaded by clicking these links.
+### First Grading Period
 - [Module 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod1_FactoringPart1_V3b-1.pdf)
 - [Module 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod2_Factoring-PerfectSqureTrinomials_GeneralTrinomProblemSolvingInvolvingFactorsOfPoly_v3-1-1.pdf)
 - [Module 3](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod3_Rational-Algebraic-Expressions1_v3B-1.pdf)
 - [Module 4](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod4_Rational_Algebraic-Expressions-2_v3B-1.pdf)
+- [Module 5](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod5_Rectangular-Coordinate-System-Linear-Equations-in-two-Variables-Slope_v3b.pdf)
+- [Module 6](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod6_Linear-Equation_v3b.pdf)
+- [Module 7](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod7_Equation-of-the-line_v3b.pdf)
+- [Module 8](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod8_Systems-of-Linear-Equations_v3b.pdf)
+- [Module 9](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/miscellaneous/math8_q1_mod9_solving-problems-involving-systems-of-linear-equations-in-two-variables_v3b.pdf)
 

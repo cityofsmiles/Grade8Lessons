@@ -21,10 +21,10 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 |5 | Rectangular Coordinate System | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/rectangular-coordinate-system.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-rectangular-coordinate-system.pdf) |
 |5 | Linear Equations in Two Variables | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/linear-equations-in-two-variables.mp4) | Not Available |
 |5 | Slope of a Line | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/slope-of-a-line.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/practice-Slope-of-a-line.pdf) |
-|6 | Forms of Linear Equations | Not Available | Not Available |
-|6 | Graphs of Linear Equations | Not Available | Not Available |
-|6 | Describing Graphs of Linear Equations Using the Slope and Intercepts | Not Available | Not Available |
-|7 | Finding the Equation of a Line Given the Slope and a Point or Two Points | Not Available | Not Available |
+|6 | Forms of Linear Equations | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/forms-of-linear-equations.mp4) | [Practice Exercises (#1-8 only)](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/slope-intercept-and-point-slope-form.pdf) |
+|6 | Graphs of Linear Equations | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/graphs-of-linear-equations.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/graphs-of-linear-equations.pdf) |
+|6 | Describing Graphs of Linear Equations Using the Slope and Intercepts | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/describing-graphs-of-linear-equations-using-the-slope-and-intercepts.mp4) | Not Available |
+|7 | Finding the Equation of a Line Given the Slope and a Point or Two Points | Not Available | [Practice Exercises (#17-24 only)](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/slope-intercept-and-point-slope-form.pdf), [Practice Exercises on Two-Point Form](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/two-point-form-of-a-line.pdf) |
 |7 | Finding the Equation of a Line Given the Slope and the Intercepts | Not Available | Not Available |
 |7 | Solving Problems Involving Linear Equations -- Distance, Speed, and Time | Not Available | Not Available |
 |7 | Solving Problems Involving Linear Equations -- Constant Rate | Not Available | Not Available |

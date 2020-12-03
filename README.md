@@ -38,6 +38,19 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 
 
 
+## Second Grading Period
+|Module | Lesson | Resources | Assessment |
+| :---: | :---: | :---: | :---: |
+| 1 | Linear Inequalities in Two Variables | Not Available | Not Available |
+| 1 | Graphs of Linear Inequalities in Two Variables | Not Available | Not Available |
+| 1 | Solving Problems Involving Linear Inequalities in Two Variables | Not Available | Not Available |
+| 2 | Solving Problems Involving Systems of Linear Inequalities in Two Variables | Not Available | Not Available |
+| 3 | Relations and Functions | Not Available | Not Available |
+| 3 | Relations and Functions | Not Available | Not Available |
+| 3 | Independent and Dependent Variables | Not Available | Not Available |
+
+
+
 ## Other Resources
 The modules for Grade 8 Mathematics may be downloaded by clicking these links.
 ### First Grading Period

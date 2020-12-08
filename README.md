@@ -26,8 +26,8 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 |6 | Describing Graphs of Linear Equations Using the Slope and Intercepts | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/describing-graphs-of-linear-equations-using-the-slope-and-intercepts.mp4) | Not Available |
 |7 | Finding the Equation of a Line Given the Slope and a Point or Two Points | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/finding-the-equation-of-a-line-given-the-slope-and-a-point-or-two-points.mp4) | [Practice Exercises (#17-24 only)](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/slope-intercept-and-point-slope-form.pdf), [Practice Exercises on Two-Point Form](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/two-point-form-of-a-line.pdf) |
 |7 | Finding the Equation of a Line Given the Slope and the Intercepts | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/finding-the-equation-of-a-line-given-the-slope-and-intercepts.mp4) | Not Available |
-|7 | Solving Problems Involving Linear Equations -- Distance, Speed, and Time | Not Available | Not Available |
-|7 | Solving Problems Involving Linear Equations -- Constant Rate | Not Available | Not Available |
+|7 | Solving Problems Involving Linear Equations -- Distance, Speed, and Time | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-distance-speed-and-time.mp4) | Not Available |
+|7 | Solving Problems Involving Linear Equations -- Constant Rate | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-constant-rate.mp4) | Not Available |
 | 8 | Systems of Linear Equations in Two Variables | Not Available | Not Available |
 | 8 | Graphing Systems of Linear Equations | Not Available | Not Available |
 | 8 | Categorizing Systems of Linear Equations | Not Available | Not Available |

@@ -29,7 +29,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 |7 | Solving Problems Involving Linear Equations -- Distance, Speed, and Time | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-distance-speed-and-time.mp4) | Not Available |
 |7 | Solving Problems Involving Linear Equations -- Constant Rate | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-linear-equations-constant-rate.mp4) | Not Available |
 | 8 | Systems of Linear Equations in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/blob/assets/1st-grading/resources/systems-of-linear-equations-in-two-variables.pdf) | Not Available |
-| 8 | Graphing Systems of Linear Equations | Not Available | Not Available |
+| 8 | Graphing Systems of Linear Equations | [pdf](https://github.com/cityofsmiles/Grade8Lessons/blob/assets/1st-grading/resources/graphing-systems-of-linear-equations.pdf) | Not Available |
 | 8 | Categorizing Systems of Linear Equations | Not Available | Not Available |
 | 9 | Solving Systems of Linear Equations by Graphing | Not Available | Not Available |
 | 9 | Solving Systems of Linear Equations by Substitution | Not Available | Not Available |

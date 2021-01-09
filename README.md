@@ -32,8 +32,8 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 8 | Graphing Systems of Linear Equations | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/graphing-systems-of-linear-equations.pdf) | Not Available |
 | 8 | Categorizing Systems of Linear Equations | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/categorizing-systems-of-linear-equations.pdf) | Not Available |
 | 9 | Solving Systems of Linear Equations by Graphing | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-graphing.pdf) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/solving-systems-of-linear-equations-by-Graphing.pdf) |
-| 9 | Solving Systems of Linear Equations by Substitution | Not Available | Not Available |
-| 9 | Solving Systems of Linear Equations by Elimination | Not Available | Not Available |
+| 9 | Solving Systems of Linear Equations by Substitution | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-substitution.pdf) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/Systems-of-Equations-Substitution.pdf) |
+| 9 | Solving Systems of Linear Equations by Elimination | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-elimination.pdf) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/Systems-of-Equations-Elimination.pdf) |
 | 9 | Solving Word Problems Involving Systems of Linear Equations in Two Variables | Not Available | Not Available |
 
 

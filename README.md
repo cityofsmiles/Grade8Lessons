@@ -34,7 +34,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 9 | Solving Systems of Linear Equations by Graphing | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-graphing.pdf) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/solving-systems-of-linear-equations-by-Graphing.pdf) |
 | 9 | Solving Systems of Linear Equations by Substitution | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-substitution.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-substitution.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/Systems-of-Equations-Substitution.pdf) |
 | 9 | Solving Systems of Linear Equations by Elimination | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-elimination.pdf) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/Systems-of-Equations-Elimination.pdf) |
-| 9 | Solving Word Problems Involving Systems of Linear Equations in Two Variables | Not Available | Not Available |
+| 9 | Solving Word Problems Involving Systems of Linear Equations in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-systems-of-linear-equations.pdf) | Not Available |
 
 
 

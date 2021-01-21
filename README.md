@@ -1,6 +1,20 @@
 # Grade 8 Lessons
 This is a repository for Grade 8 teaching and assessment resources created by the Math teachers of Sauyo High School. To download, just click the link. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
+## Second Grading Period
+|Module | Lesson | Resources | Assessment |
+| :---: | :---: | :---: | :---: |
+| 1 | Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/linear-inequalities-in-two-variables.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/linear-inequalities-in-two-variables.mp4) | Not Available |
+| 1 | Graphs of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphs-of-linear-inequalities.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graph-of-linear-inequalities-in-two-variables.mp4) | Not Available |
+| 1 | Solving Problems Involving Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-inequalities-in-two-variables.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-inequalities.mp4) | Not Available |
+| 2 | Systems of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/systems-of-linear-inequalities-in-two-variables.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/systems-of-linear-inequalities.mp4) | Not Available |
+| 2 | Graphical Solutions of Systems of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-systems-of-linear-inequalities.pdf) | Not Available |
+| 2 | Solving Problems Involving Systems of Linear Inequalities in Two Variables | Not Available | Not Available |
+| 3 | Relations and Functions | Not Available | Not Available |
+| 3 | Relations and Functions | Not Available | Not Available |
+| 3 | Independent and Dependent Variables | Not Available | Not Available |
+
+
 ## First Grading Period
 |Module | Lesson | Resources | Assessment |
 | :---: | :---: | :---: | :---: |
@@ -36,20 +50,6 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 9 | Solving Systems of Linear Equations by Elimination | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-elimination.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-systems-of-linear-equations-by-elimination.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/Systems-of-Equations-Elimination.pdf) |
 | 9 | Solving Word Problems Involving Systems of Linear Equations in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-systems-of-linear-equations.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/solving-problems-involving-systems-of-linear-equations.mp4) | Not Available |
 
-
-
-## Second Grading Period
-|Module | Lesson | Resources | Assessment |
-| :---: | :---: | :---: | :---: |
-| 1 | Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/linear-inequalities-in-two-variables.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/linear-inequalities-in-two-variables.mp4) | Not Available |
-| 1 | Graphs of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphs-of-linear-inequalities.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graph-of-linear-inequalities-in-two-variables.mp4) | Not Available |
-| 1 | Solving Problems Involving Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-inequalities-in-two-variables.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-inequalities.mp4) | Not Available |
-| 2 | Systems of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/systems-of-linear-inequalities-in-two-variables.pdf) | Not Available |
-| 2 | Graphical Solutions of Systems of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-systems-of-linear-inequalities.pdf) | Not Available |
-| 2 | Solving Problems Involving Systems of Linear Inequalities in Two Variables | Not Available | Not Available |
-| 3 | Relations and Functions | Not Available | Not Available |
-| 3 | Relations and Functions | Not Available | Not Available |
-| 3 | Independent and Dependent Variables | Not Available | Not Available |
 
 
 

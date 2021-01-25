@@ -10,8 +10,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 2 | Systems of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/systems-of-linear-inequalities-in-two-variables.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/systems-of-linear-inequalities.mp4) | Not Available |
 | 2 | Graphical Solutions of Systems of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-systems-of-linear-inequalities.pdf) | Not Available |
 | 2 | Solving Problems Involving Systems of Linear Inequalities in Two Variables | Not Available | Not Available |
-| 3 | Representations of Relations and Functions
- | Not Available | Not Available |
+| 3 | Representations of Relations and Functions | Not Available | Not Available |
 | 3 | Relations and Functions | Not Available | Not Available |
 | 3 | Independent and Dependent Variables | Not Available | Not Available |
 

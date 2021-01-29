@@ -11,7 +11,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 2 | Graphical Solutions of Systems of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-systems-of-linear-inequalities.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-systems-of-linear-inequalities.mp4) | Not Available |
 | 2 | Solving Problems Involving Systems of Linear Inequalities in Two Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-systems-of-linear-inequalities.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-systems-of-linear-inequalities.mp4) | Not Available |
 | 3 | Representations of Relations | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/representations-of-relations.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/representations-of-relations.mp4) | Not Available |
-| 3 | Functions and Relations | Not Available | Not Available |
+| 3 | Functions and Relations | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/functions-and-relations.pdf) | Not Available |
 | 3 | Independent and Dependent Variables | Not Available | Not Available |
 
 

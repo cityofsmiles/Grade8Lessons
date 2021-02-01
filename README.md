@@ -13,7 +13,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 3 | Representations of Relations | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/representations-of-relations.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/representations-of-relations.mp4) | Not Available |
 | 3 | Functions and Relations | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/functions-and-relations.pdf), [video lesson part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/function-and-relation-part1.mp4), [video lesson part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/function-and-relation-part2.mp4)  | Not Available |
 | 3 | Independent and Dependent Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/dependent-and-independent-variables.pdf) | Not Available |
-| 4 | Domain and Range of Functions | Not Available | Not Available |
+| 4 | Domain and Range of Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/domain-and-range-of-functions.pdf) | Not Available |
 | 4 | Illustrating and Graphing Linear Functions | Not Available | Not Available |
 
 

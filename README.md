@@ -14,8 +14,8 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 3 | Functions and Relations | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/functions-and-relations.pdf), [video lesson part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/function-and-relation-part1.mp4), [video lesson part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/function-and-relation-part2.mp4)  | Not Available |
 | 3 | Independent and Dependent Variables | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/dependent-and-independent-variables.pdf),[video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/dependent-and-independent-variables.mp4) | Not Available |
 | 4 | Domain and Range of Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/domain-and-range-of-functions.pdf), [video lesson part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/domain-and-range-of-functions-part1.mp4), [video lesson part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/domain-and-range-of-functions-part2.mp4) | Not Available |
-| 4 | Illustrating Linear Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/illustrating-linear-functions.pdf) | Not Available |
-| 4 | Graphing Linear Functions | Not Available | Not Available |
+| 4 | Illustrating Linear Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/illustrating-linear-functions.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/illustrating-linear-functions.mp4) | Not Available |
+| 4 | Graphing Linear Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphs-of-linear-functions.pdf) | Not Available |
 
 
 ## First Grading Period

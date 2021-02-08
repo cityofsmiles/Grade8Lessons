@@ -17,7 +17,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 4 | Illustrating Linear Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/illustrating-linear-functions.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/illustrating-linear-functions.mp4) | Not Available |
 | 4 | Graphing Linear Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphs-of-linear-functions.pdf),[video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/graphing-linear-functions.mp4) | Not Available |
 | 5 | Solving Problems Involving Linear Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-functions.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-functions.mp4) | Not Available |
-| 6 | If-Then Statements | Not Available | Not Available |
+| 6 | If-Then Statements | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/if-then-statements.pdf) | Not Available |
 | 7 | Inverse, Converse, and Contrapositive Statements | Not Available | Not Available |
 | 8 | Equivalence of Statements | Not Available | Not Available |
 | 9 | Inductive and Deductive Reasoning | Not Available | Not Available |

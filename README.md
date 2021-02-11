@@ -19,7 +19,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 5 | Solving Problems Involving Linear Functions | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-functions.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/solving-problems-involving-linear-functions.mp4) | Not Available |
 | 6 | If-Then Statements | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/if-then-statements.pdf),[video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/if-then-statements.mp4) | Not Available |
 | 7 | Inverse, Converse, and Contrapositive Statements | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.mp4) | Not Available |
-| 8 | Logical Equivalence of Statements | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/logical-equivalence-of-statements.pdf) | Not Available |
+| 8 | Logical Equivalence of Statements | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/logical-equivalence-of-statements.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/logical-equivalence-of-statements.mp4) | Not Available |
 | 9 | Inductive and Deductive Reasoning | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inductive-and-deductive-reasoning.pdf) | Not Available |
 
 

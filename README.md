@@ -21,7 +21,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 7 | Inverse, Converse, and Contrapositive Statements | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inverse-converse-and-contrapositive-statements.mp4) | Not Available |
 | 8 | Logical Equivalence of Statements | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/logical-equivalence-of-statements.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/logical-equivalence-of-statements.mp4) | Not Available |
 | 9 | Inductive and Deductive Reasoning | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inductive-and-deductive-reasoning.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/inductive-and-deductive-reasoning.mp4) | Not Available |
-| 9 | Writing Proofs | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs.pdf) | Not Available |
+| 9 | Writing Proofs | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs.pdf), [video lesson part 1](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part1.mp4), [video lesson part 2](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/2nd-grading/resources/writing-proofs-part2.mp4) | Not Available |
 | 9 | Direct and Indirect Proofs | Not Available | Not Available |
 
 

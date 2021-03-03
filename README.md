@@ -1,6 +1,13 @@
 # Grade 8 Lessons
 This is a repository for Grade 8 teaching and assessment resources created by the Math teachers of Sauyo High School. To download, just click the link. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
+## Third Grading Period
+|Module | Lesson | Resources | Assessment |
+| :---: | :---: | :---: | :---: |
+| 1 | Mathematical System | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/mathematical-system.pdf) | Not Available |
+| 2 | Two-Column Proof | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/two-column-proof.pdf) | Not Available |
+
+
 ## Second Grading Period
 |Module | Lesson | Resources | Assessment |
 | :---: | :---: | :---: | :---: |

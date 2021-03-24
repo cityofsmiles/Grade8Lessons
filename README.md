@@ -7,7 +7,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 1 | Introduction to Mathematical System | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/mathematical-system.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/mathematical-system.mp4) | Not Available |
 | 1 | Two-Column Proof | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/two-column-proof.pdf) | Not Available |
 | 2 | Defined and Undefined Terms | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/defined-and-undefined-terms.pdf) | Not Available |
-| 2 | Postulates and Theorems | Not Available | Not Available |
+| 2 | Postulates and Theorems | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/postulates-and-theorems.pdf) | Not Available |
 
 
 ## Second Grading Period

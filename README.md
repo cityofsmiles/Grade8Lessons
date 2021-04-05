@@ -9,9 +9,9 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 2 | Defined and Undefined Terms | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/defined-and-undefined-terms.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/defined-and-undefined-terms.mp4) | Not Available |
 | 2 | Postulates and Theorems | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/postulates-and-theorems.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/postulates-and-theorems.mp4) | Not Available |
 | 3 | Triangle Congruence | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/triangle-congruence.pdf) | Not Available |
-| 3 | SAS Triangle Congruence Postulate | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sas-triangle-congruence-postulate.pdf) | Not Available |
-| 3 | ASA Triangle Congruence Postulate | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/asa-triangle-congruence-postulate.pdf) | Not Available |
-| 3 | SSS Triangle Congruence Postulate | Not Available | Not Available |
+| 4 | SAS Triangle Congruence Postulate | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sas-triangle-congruence-postulate.pdf) | Not Available |
+| 4 | ASA Triangle Congruence Postulate | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/asa-triangle-congruence-postulate.pdf) | Not Available |
+| 4 | SSS Triangle Congruence Postulate | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sss-triangle-congruence-postulate.pdf) | Not Available |
 
 
 

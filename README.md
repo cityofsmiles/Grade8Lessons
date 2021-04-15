@@ -12,7 +12,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 4 | SAS Triangle Congruence Postulate | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sas-triangle-congruence-postulate.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sas-triangle-congruence-postulate.mp4) | Not Available |
 | 4 | ASA Triangle Congruence Postulate | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/asa-triangle-congruence-postulate.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/asa-triangle-congruence-postulate.mp4) | Not Available |
 | 4 | SSS Triangle Congruence Postulate | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/sss-triangle-congruence-postulate.pdf) | Not Available |
-| 5 | Solving Corresponding Parts of Congruent Triangles | Not Available | Not Available |
+| 5 | Solving Corresponding Parts of Congruent Triangles | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/3rd-grading/resources/solving-corresponding-parts-of-congruent-triangles.pdf) | Not Available |
 | 6 | Proving Congruence of Triangles | Not Available | Not Available |
 | 7 | Proving Statements on Triangle Congruence | Not Available | Not Available |
 | 8 | Applying Triangle Congruence in Constructing Perpendicular Lines | Not Available | Not Available |

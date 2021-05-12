@@ -1,6 +1,23 @@
 # Grade 8 Lessons
 This is a repository for Grade 8 teaching and assessment resources created by the Math teachers of Sauyo High School. To download, just click the link. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
+## Fourth Grading Period
+| Week | Lesson | Resources | Assessment |
+| :---: | :---: | :---: | :---: |
+| 1 | Exterior Angle Inequality Theorem | Not Available | Not Available |
+| 1 | Triangle Inequality Theorem | Not Available | Not Available |
+| 1 | Hinge Theorem | Not Available | Not Available |
+| 2 | Applying Theorems on Triangle Inequality | Not Available | Not Available |
+| 3 | Proving Inequalities in a Triangle | Not Available | Not Available |
+| 4 | Proving Properties of Parallel Lines Cut by a Transversal | Not Available | Not Available |
+| 5 | Parallel and Perpendicular Lines | Not Available | Not Available |
+| 6 | Sample Space, Events, Outcomes, and Experiments | Not Available | Not Available |
+| 7 | Counting the Outcomes of Experiments | Not Available | Not Available |
+| 8 | Probability of an Event | Not Available | Not Available |
+| 9 | Experimental and Theoretical Probability | Not Available | Not Available |
+| 9 | Solving Problems Involving Probabilities of Simple Events | Not Available | Not Available |
+
+
 ## Third Grading Period
 |Module | Lesson | Resources | Assessment |
 | :---: | :---: | :---: | :---: |

@@ -4,8 +4,8 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 ## Fourth Grading Period
 | Week | Lesson | Resources | Assessment |
 | :---: | :---: | :---: | :---: |
-| 1 | Exterior Angle Inequality Theorem | Not Available | Not Available |
-| 1 | Triangle Inequality Theorem | Not Available | Not Available |
+| 1 | Exterior Angle Inequality Theorem | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/exterior-angle-inequality-theorem.pdf) | Not Available |
+| 1 | Triangle Inequality Theorems | Not Available | Not Available |
 | 1 | Hinge Theorem | Not Available | Not Available |
 | 2 | Applying Theorems on Triangle Inequality | Not Available | Not Available |
 | 3 | Proving Inequalities in a Triangle | Not Available | Not Available |

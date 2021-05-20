@@ -7,7 +7,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 1 | Exterior Angle Inequality Theorem | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/exterior-angle-inequality-theorem.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/exterior-angle-inequality-theorem.mp4) | Not Available |
 | 1 | Triangle Inequality Theorem | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/triangle-inequality-theorem.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/triangle-inequality-theorem.mp4) | Not Available |
 | 1 | Hinge Theorem | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/hinge-theorem.pdf) | Not Available |
-| 2 | Applying Theorems on Triangle Inequality | Not Available | Not Available |
+| 2 | Applying Theorems on Triangle Inequality | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/applying-theorems-on-triangle-inequality.pdf) | Not Available |
 | 3 | Proving Inequalities in a Triangle | Not Available | Not Available |
 | 4 | Proving Properties of Parallel Lines Cut by a Transversal | Not Available | Not Available |
 | 5 | Parallel and Perpendicular Lines | Not Available | Not Available |

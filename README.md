@@ -10,7 +10,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 2 | Applying Theorems on Triangle Inequality | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/applying-theorems-on-triangle-inequality.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/applying-theorems-on-triangle-inequality.mp4) | Not Available |
 | 3 | Proving Inequalities in a Triangle | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/proving-inequalities-in-a-triangle.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/proving-inequalities-in-triangles.mp4) | Not Available |
 | 4 | Proving Properties of Parallel Lines Cut by a Transversal | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/proving-properties-of-parallel-lines-cut-by-a-transversal.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/proving-properties-of-parallel-lines-cut-by-a-transversal.mp4) | Not Available |
-| 5 | Parallel and Perpendicular Lines | Not Available | Not Available |
+| 5 | Parallel and Perpendicular Lines | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/parallelism-and-perpendicularity.pdf) | Not Available |
 | 6 | Sample Space, Events, Outcomes, and Experiments | Not Available | Not Available |
 | 7 | Counting the Outcomes of Experiments | Not Available | Not Available |
 | 8 | Probability of an Event | Not Available | Not Available |

@@ -17,3 +17,5 @@
 ![May 2021](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/calendar/may-2021-0.jpeg)
 
 ![June 2021](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/calendar/jun-2021-0.jpeg)
+
+![July 2021](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/calendar/jul-2021-0.jpeg)

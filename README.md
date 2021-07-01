@@ -15,7 +15,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 | 7 | Counting the Outcomes of Experiments | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/counting-the-outcomes-of-experiments.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/counting-the-outcomes-of-experiments.mp4) | Not Available |
 | 8 | Probability of an Event | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/probability-of-an-event.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/probability-of-an-event.mp4) | Not Available |
 | 9 | Experimental and Theoretical Probability | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/experimental-and-theoretical-probability.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/experimental-and-theoretical-probability.mp4) | Not Available |
-| 9 | Solving Problems Involving Probabilities of Simple Events | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/solving-problems-involving-probabilities-of-simple-events.pdf) | Not Available |
+| 9 | Solving Problems Involving Probabilities of Simple Events | [pdf](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/solving-problems-involving-probabilities-of-simple-events.pdf), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/4th-grading/resources/solving-problems-involving-probability-of-simple-events.mp4) | Not Available |
 
 
 ## Third Grading Period

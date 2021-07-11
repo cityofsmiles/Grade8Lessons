@@ -3,7 +3,7 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 
 ## First Grading Period
 | Dates Covered | Lesson | Presentations | Outputs |
-| :--- | :---: | ---: | ---: |
+| :--- | :---: | :--- | :--- |
 | Aug.5-10 | Review: Laws of Exponents <br> Try | [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/laws-of-exponents.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/laws-of-exponents.pdf) |
 |1 | Factoring Polynomials with <br> Common Monomial Factor | [PowerPoint Presentation by Mr. Saing](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/common-monomial-factoring.pptx), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-polynomials-with-common-monomial-factor.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/factoring-polynomials-with-common-monomial-factor.pdf) |
 |1 | Factoring by Grouping | [PowerPoint Presentation by Ms. Cervantes](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/FACTORING-BY-GROUPING.pptx), [video lesson](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-by-grouping.mp4) | [Practice Exercises](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/assessment/factoring-by-grouping.pdf) |

@@ -6,8 +6,10 @@ This is a repository for Grade 8 teaching and assessment resources created by th
 ### Review Lessons (Video lessons by Ma'am Emelyn Cañares)
 Adding Integers
 - [Watch video](https://www.youtube.com/watch?v=7y6B8gxJRgA)
+
 Subtracting Integers
 - [Watch video](https://www.youtube.com/watch?v=xTYEdGnGd0o)
+
 Order of Operations (PEMDAS Rule)
 - [Watch video](https://www.youtube.com/watch?v=tSR3A8jFCDk)
 

@@ -27,3 +27,8 @@ Factoring by Grouping
 Factoring the Difference of Two Squares
 - [Watch video](https://tubedu.org/videos/watch/b28f973e-9fba-44bf-ae3b-7ef3cde6d07b),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-the-difference-of-two-squares.mp4)
+
+### Week 1 Lesson 4
+Factoring the Sum and Difference of Two Cubes
+- [Watch video](https://tubedu.org/videos/watch/0af0bf9b-5abf-4261-8926-fe66f2b32560),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-the-sum-and-difference-of-two-cubes.mp4)

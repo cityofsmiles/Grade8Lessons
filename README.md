@@ -1,5 +1,5 @@
 # Grade 8 Lessons
-This is a repository for Grade 8 teaching and assessment resources created by the Math teachers of Sauyo High School. To download, just click the link. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
+This is a repository for Grade 8 teaching and assessment resources created by the Math teachers of Sauyo High School. The topics are based on the Most Essential Learning Competencies in Mathematics (MELC).
 
 ## First Grading Period
 
@@ -16,7 +16,7 @@ Order of Operations (PEMDAS Rule)
 ### Week 1 Lesson 1
 Factoring Polynomials with Common Monomial Factor 
 - [Watch video](https://tubedu.org/videos/watch/92eb393b-2886-4834-b785-b6a19abc691d),
-[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-polynomials-with-common-monomial-factor.mp4), 
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-polynomials-with-common-monomial-factor.mp4)
 
 ### Week 1 Lesson 2
 Factoring by Grouping
@@ -32,3 +32,9 @@ Factoring the Difference of Two Squares
 Factoring the Sum and Difference of Two Cubes
 - [Watch video](https://tubedu.org/videos/watch/0af0bf9b-5abf-4261-8926-fe66f2b32560),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-the-sum-and-difference-of-two-cubes.mp4)
+
+### Week 2 Lesson 1
+Factoring Perfect Square Trinomials
+- [Watch video](https://tubedu.org/videos/watch/3f5013c5-2b0b-4fec-b043-9a7fd8ec0973),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-perfect-square-trinomials.mp4)
+

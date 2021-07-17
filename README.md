@@ -38,3 +38,25 @@ Factoring Perfect Square Trinomials
 - [Watch video](https://tubedu.org/videos/watch/3f5013c5-2b0b-4fec-b043-9a7fd8ec0973),
 [Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-perfect-square-trinomials.mp4)
 
+### Week 2 Lesson 2
+Factoring Trinomials with 1 as Leading Coefficient
+- [Watch video](https://tubedu.org/videos/watch/e2db50ce-d713-494e-b15b-1f4c60d89c80),
+[Download video](https://github.com/cityofsmiles/Grade8Lessons/raw/assets/1st-grading/resources/factoring-trinomials-with-1-as-leading-coefficient.mp4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
